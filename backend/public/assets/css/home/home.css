@@ -1,0 +1,14 @@
+header {
+	position:absolute;
+	background:none;
+}
+.wrapper {
+	padding-top:0;
+}
+section {
+	padding:100px 0 30px;
+}
+
+.box-desc {
+	color:#FFD822;
+}

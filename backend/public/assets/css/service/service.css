@@ -1,0 +1,125 @@
+.page-content {}
+.main-item .item {
+	width:100%;
+	margin-bottom:80px;
+}
+.main-item .item .pic-thumb,
+.main-item .item .summary {
+	width:50%;
+	position:relative;
+}
+.main-item .item .pic-thumb {
+	padding:0 15px;
+}
+.main-item .item .pic-thumb {
+	float:left;
+}
+.main-item .item .bg-pic {
+	display:block;
+	background:#333;
+}
+.main-item .item .bg-pic img {
+	width:100%;
+}
+.main-item .item .summary {
+	float:right;
+	padding:20px 50px;
+	box-shadow:0 0 49px rgba(0, 0, 0, 0.14);
+	background:rgba(255,255,255, .8);
+	position: relative;
+	right: 50px;
+	margin-top:20px;
+}
+.main-item .item .summary:hover {
+	background:rgba(255, 255, 255, .5);
+	color:#fff;
+}
+.main-item .item:nth-child(2n) .pic-thumb {
+	float:right;
+}
+
+.main-item .item:nth-child(2n) .summary {
+	float:left;
+	right:auto;
+	left:50px;
+}
+
+.main-item .item .sicon {
+	height:80px;
+	width:80px;
+	background:#333;
+	padding:5px;
+	margin-bottom:20px;
+    border-radius: 50%;;
+}
+.main-item .item .sicon img {
+	width:100%;
+	height:auto;
+	max-height:70px;
+}
+.main-item .item-title {
+	margin-bottom: 20px;
+	color: #333333;
+	font-size: 22px;
+	font-weight: 400;
+	line-height: 20px;
+	transition: 0.4s;
+}
+
+
+.main-item .btn-more {
+	margin:15px 0 0;
+	border:1px solid #5d26d9;
+	padding:5px 35px;
+	background-color:#5d26d9;
+	border-radius: 35px;
+	position: relative;
+	display: inline-block;
+	vertical-align: top;
+	text-align: center;
+	transition: all 0.3s ease-in-out;
+	-webkit-transition: all 0.3s ease-in-out;
+
+	color: #ffffff;
+	line-height: 28px;
+	font-size: 15px;
+	font-family: Lato;
+	font-weight: 700;
+	font-style: normal;
+	text-transform:uppercase;
+}
+.main-item .btn-more:hover {
+	background-color:rgba(255,255,255,0.08);
+	border-color:#2767ff;
+	color:#2767ff;
+}
+.main-item .btn-more .ficon {
+	font-size: 21px;
+	position: absolute;
+	right: 10px;
+	top: 17px;
+}
+.service-content {
+	display:none;
+}
+.fancybox-skin {
+	background:rgba(255,255,255, .9);
+}
+.fancybox-skin .service-content p {
+	color:#333;
+}
+
+.fancybox-skin .service-content img {
+	max-width:100%;
+	height:auto !important;
+}
+@media screen and (max-width: 768px){
+	.main-item .item .pic-thumb,
+	.main-item .item .summary {
+		width:100%;
+		float:none !important;
+		right:auto !important;
+		left:auto !important;
+		padding:15px;
+	}
+}

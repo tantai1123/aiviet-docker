@@ -1,0 +1,53 @@
+<?php
+
+return [
+    'id' => 'ID',
+    'servername' => 'Server name',
+    'configuration' => 'Configuration',
+    'path' => 'Path',
+    'action' => 'Action',
+    'header' => 'Mysql profiles management',
+    'form' => [
+        'servername_place_holder' => 'Please enter the server name',
+        'configuration_place_holder' => 'Please enter the configuration',
+        'path_place_holder' => 'Please enter the path',
+        'btn_save' => 'Save',
+        'btn_add' => 'Add',
+        'btn_cancel' => 'Cancel',
+    ],
+    'actions' => [
+        'btn_delete' => 'Delete',
+        'btn_edit' => 'Edit',
+        'btn_view' => 'Quick view',
+        'btn_yes' => 'Yes',
+        'btn_no' => 'No',
+        'btn_close' => 'Close',
+        'list' => 'MySql List',
+        'add' => 'Add MySql Server',
+        'edit' => 'Edit MySql Server',
+    ],
+    'message' => [
+        'confirm' => 'Confirmation',
+        'delete_accept' => 'Are you sure to delete this server?',
+        'not_found' => 'Can not find any server',
+        'quick_view_config' => 'Configuration of',
+        'quick_view_server' => 'server',
+        'success' => 'Success!',
+        'add' => 'You have added the server successfully!',
+        'edit' => 'You have edited the server successfully!',
+        'delete' => 'The server has been deleted!',
+        'null_config' => 'This server has not been configured yet',
+    ],
+    'items' => [
+        'show' => 'Show',
+        'showing' => 'Showing',
+        'to' => 'to',
+        'of' => 'of',
+        'entries' => 'entries',
+    ],
+    'title' => [
+        'list' => 'List MySql',
+        'add' => 'Add MySql',
+        'edit' => 'Edit MySql',
+    ],
+];

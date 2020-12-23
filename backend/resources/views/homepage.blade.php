@@ -30,7 +30,7 @@
                         <div class="slider-content">
                             <span></span>
                             <h1>
-                                <div class="mr-2 d-inline">Grow Together: Đồng hành cùng phát triển</div>
+                                <div class="mr-2 d-inline">Làm việc cùng nhau để tạo ra điều lớn lao tiếp theo</div>
                             </h1>
                         </div>
                     </div>
@@ -38,7 +38,7 @@
                         <div class="slider-content">
                             <span></span>
                             <h1>
-                                <div class="mr-2 d-inline">Giải pháp Marketing toàn diện cho Doanh Nghiệp SME</div>
+                                <div class="mr-2 d-inline">Tối ưu hóa kết quả - Chuyển đổi số thành công</div>
                             </h1>
                         </div>
                     </div>
@@ -46,15 +46,7 @@
                         <div class="slider-content">
                             <span></span>
                             <h1>
-                                <div class="mr-2 d-inline">Nâng tầm thương hiệu cùng Martech</div>
-                            </h1>
-                        </div>
-                    </div>
-                    <div class="swiper-slide">
-                        <div class="slider-content">
-                            <span></span>
-                            <h1>
-                                <div class="mr-2 d-inline">Hiện thực hoá khát vọng “Go Global”</div>
+                                <div class="mr-2 d-inline">Mục tiêu rõ ràng, giải pháp chính xác</div>
                             </h1>
                         </div>
                     </div>
@@ -190,7 +182,7 @@
                             <div class="info">
                                 <i class="fas fa-phone"></i>
                                 <p class="mb-0"> Phone </p>
-                                <a href="tel:0978.106.982">073 362 514</a>
+                                <a href="tel:0978.106.982">(+84) 935 193 931</a>
                             </div>
                         </div>
                     </div>

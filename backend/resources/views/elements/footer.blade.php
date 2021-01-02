@@ -3,7 +3,7 @@
         <div class="row">
             <!-- Copyright -->
             <div class="col-lg-4 copyright">
-                <a href="https://esm.com.vn/">
+                <a href="https://aivietgroup.asia/">
                     <img src="{{asset('uploads/image/logo/AV.png')}}" alt="AV"/>
                 </a>
                 <p>© 2020 Ái Việt Group</p>

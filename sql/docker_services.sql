@@ -1,0 +1,67 @@
+INSERT INTO docker.services (id, service_name, icon, image, description, content, content_image) VALUES (1, 'BRANDING', 'uploads/image/service/branding.png', 'thumbs/image/service/400x400-1-pic-01.jpg', 'Tư vấn, xây dựng chiến lược định vị thương hiệu
+Phát triển bộ nhận diện thương hiệu
+Triển khai chiến dịch Marketing đa kênh Facebook, Instagram, TikTok', 'Xây dựng thương hiệu (BRANDING) bền vững là nền tảng quan trọng cho việc phát triển lâu dài của thương hiệu dù ở bất kỳ quy mô nào. Với những chiến lược branding bài bản, cụ thể và độc đáo sẽ giúp doanh nghiệp có một lợi thế cạnh tranh lớn hơn.
+ Để tạo ra những giá trị khác biệt nhằm nâng cao nhận thức và giúp cho các thương hiệu nhận được sự yêu quý và tin tưởng của khách hàng. Chúng tôi mong muốn đồng hành cùng Doanh nghiệp:
+
+- Xây dựng những giá trị cốt lõi mang lại lợi thế cạnh tranh tốt hơn so với các đối thủ
+
+- Tư vấn định vị thương hiệu tạo nên sự khác biệt đặc trưng
+
+- Xây dựng chiến lược Marketing đa kênh mang lại hiệu quả tối ưu và gia tăng doanh số cho doanh nghiệp', '');
+INSERT INTO docker.services (id, service_name, icon, image, description, content, content_image) VALUES (2, 'SOCIAL MEDIA', 'uploads/image/service/digital-marketing.png', 'thumbs/image/service/400x400-1-pic-2.jpg', 'Xây dựng chiến lược Marketing trên nền tảng trực tuyến (Facebook, Instagram, Google, Youtube, Tiktok)
+Tối ưu quảng cáo Facebook Ads, Google Ads, Tiktok Ads, Youtube
+Quản trị và xây dựng nội dung truyền thông đa kênh', 'Hiện nay, Social Media Marketing đang cho các doanh nghiệp có cơ hội “phủ sóng” dày đặc hơn trước mắt khách hàng.
+
+Với khả năng phân tích mục tiêu kinh doanh và xác định đối tượng khách hàng nhanh chóng, đào sâu insight khơi nguồn ý tưởng, lên kế hoạch cụ thể khai thác các kênh truyền thông phù hợp, xác lập KPI và đánh giá hiệu quả chiến dịch.
+
+Từ đó, chúng tôi tự hào có thể cùng bạn đưa ra những gỉải pháp thực tế - tối ưu hiệu quả - chí phí hợp lý để dẫn đầu thị trường và phát triển bền vững bao gồm:
+
+- Phân tích & xây dựng chiến lược quảng cáo, dịch vụ Facebook marketing, quản lý fanpage.
+
+- Tối ưu quảng cáo Facebook Ads, Google Ads, Tiktok Ads, Youtube đa dạng hình thức triển khai.
+
+- Tư vấn chiến lược, quản trị và phát triển nội dung đa kênh Facebook, Youtube, Tiktok,… nhằm mang lại cơ hội tiếp cận lớn tới hàng triệu khách hàng tiềm năng cho doanh nghiệp.', '');
+INSERT INTO docker.services (id, service_name, icon, image, description, content, content_image) VALUES (3, 'XÂY DỰNG KÊNH TIKTOK', 'uploads/image/service/digital.png', 'thumbs/image/service/400x400-1-pic-01.jpg', 'Lên ý tưởng, sáng tạo nội dung kênh
+Xây dựng và phát triển kênh Tiktok 100,000 follower trong vòng 1 tháng
+Tiktok Selling Manager', 'Kinh doanh đi cùng với xu hướng thì mới có thể phát triển và tiếp cận gần hơn với nhiều tệp khách hàng.
+Trong vài năm trở lại đây, TikTok đã thu hút được sự chú ý lớn từ nhiều nhà kinh doanh khi mạng xã hội này có thể tạo ra những content vô cùng đặc sắc, đồng thời còn là một kênh marketing vô cùng  hiệu quả.
+Nắm bắt được xu hướng này, Ái Việt Digital mang đến cho khách hàng của mình nhiều dịch vụ thú vị với những giải pháp thống lĩnh thị trường Tiktok:
+
+- Lên ý tưởng, sáng tạo nội dung thu hút và xây dựng kênh Tiktok phù hợp với nhu cầu khách hàng.
+
+- Tiktok Selling Manager
+
+- Xây dựng và phát triển kênh Tiktok 100,000 follower trong vòng 1 tháng.
+
+- Phát triển các chiến lược Marketing hiệu quả trên nền tảng Tiktok', '');
+INSERT INTO docker.services (id, service_name, icon, image, description, content, content_image) VALUES (4, 'SÁNG TẠO NỘI DUNG', 'uploads/image/service/content-strategy.png', 'thumbs/image/service/400x400-1-pic-01.jpg', 'Quản lý và sáng tạo nội dung hấp dẫn cho Fanpage Facebook, Instagram, Tiktok
+Tư vấn chiến lược nội dung truyền thông
+Thiết kế tối ưu giao diện và nội dung website', 'Với đội ngũ nhân viên năng động, sáng tạo, đầy cảm hứng sẽ mang lại những ý tưởng vô cùng táo bạo và khác biệt phù hợp với mong muốn định vị thương hiệu của khách hàng. Chúng tôi hỗ trợ cho các Doanh nghiệp:
+
+- Xây dựng chiến lược nội dung truyền thông, khai thác ý tưởng và quản trị truyền thông đa kênh Fanpage Facebook, Tiktok, Instagram, Website,…
+
+- Triển khai Key Visual độc đáo, nâng tầm giá trị thông điệp mà thương hiệu mong muốn truyền tải.
+
+- Xây dựng giao diện và nội dung website thu hút chuẩn SEO/SEM mang đến lượt tiếp cận cao và trải nghiệm tốt nhất cho khách hàng của bạn.', '');
+INSERT INTO docker.services (id, service_name, icon, image, description, content, content_image) VALUES (5, 'PRODUCTION HOUSE', 'uploads/image/service/creative-production.png', 'thumbs/image/service/400x400-1-pic-01.jpg', 'Lên ý tưởng sản xuất video, hình ảnh
+Thiết kế bộ nhận diện thương hiệu
+Triển khai chiến lược xây dựng đa dạng nội dung quảng cáo', 'Để đáp ứng nhu cầu khai thác ý tưởng và thực hiện đa dạng nội dung quảng cáo trên các kênh truyền thông. Ái Việt Digital còn mang đến những sản phẩm sáng tạo chuyên nghiệp và hiệu quả, chỉnh chu từ khâu lên ý tưởng đến các bước thực hiện bao gồm:
+- Sáng tạo hình ảnh cho kênh truyền thông ấn tượng.
+
+- Thiết kế bộ nhận diện thương hiệu độc đáo.
+
+- Xây dựng kịch bản và sản xuất TVC thu hút.
+
+- Nắm bắt xu hướng, truyền tải thông điệp của thương hiệu theo cách đặc trưng riêng và mang đến những trải nghiệm thú vị với cộng đồng.
+ Đặc biệt là đối tượng khách hàng của Doanh Nghiệp.', '');
+INSERT INTO docker.services (id, service_name, icon, image, description, content, content_image) VALUES (6, 'THIẾT KẾ WEBSITE', 'uploads/image/service/future-solution.png', 'thumbs/image/service/400x400-1-pic-01.jpg', 'Thiết kế Website/ Landing page
+Thiết kế giao diện, xây dựng web trên hai nền tảng: wordpress và code
+Chiến lược website chuẩn SEO/SME', '- Thiết kế Website/ Landing page tối ưu cả trên máy tính, điện thoại, tablet
+
+- Thiết kế giao diện website, xây dựng web trên hai nền tảng: wordpress và code dễ dàng quản lý, dễ dàng sử dụng.
+
+- Tối ưu hoá trải nghiệm người dùng, tăng tỉ lệ chuyển đổi và doanh số cho doanh nghiệp.
+
+Ngoài ra, với mục tiêu mang lại hiểu quả cao nhưng không mất nhiều chi phí cho truyền thông như các hình thức quảng bá khác.
+
+- Với chiến lược SEO, chúng tôi sẽ giúp đưa website của bạn lên top trên trang kết quả tìm kiếm Google (SERP) trong lĩnh vực kinh doanh và nổi bật hơn so với các đối thủ cạnh tranh.', '');

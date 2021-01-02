@@ -5,18 +5,18 @@
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1, user-scalable=no"/>
-    <meta property="og:title" name="title" content="NoName"/>
+    <meta property="og:title" name="title" content="AiVietGroup"/>
     <title>@yield('title')</title>
     <meta name="resource-type" content="document"/>
-    <meta name="code author" content="NoName"/>
-    <meta name="author" itemprop="author" content="NoName"/>
+    <meta name="code author" content="AiVietGroup"/>
+    <meta name="author" itemprop="author" content="AiVietGroup"/>
     <meta itemprop="name" content="AiViet"/>
     <meta property="og:site_name" content="AiViet"/>
     <meta name="copyright" content="Copyright © © 2020 Ai Viet Group"/>
-    <meta property="og:image" content="{{('uploads/image/logo/horizontal_logo_white.png')}}"/>
-    <meta itemprop="thumbnailUrl" content="{{('uploads/image/logo/horizontal_logo_white.png')}}"/>
-    <link rel="shortcut icon" type="image/x-icon" href="{{('uploads/image/logo/logo_circle.png')}}"/>
-    <link rel="icon" type="image/x-icon" href="{{('uploads/image/logo/logo_circle.png')}}"/>
+    <meta property="og:image" content="{{('uploads/image/logo/AV.png')}}"/>
+    <meta itemprop="thumbnailUrl" content="{{('uploads/image/logo/AV.png')}}"/>
+    <link rel="shortcut icon" type="image/x-icon" href="{{('uploads/image/logo/favicon.png')}}"/>
+    <link rel="icon" type="image/x-icon" href="{{('uploads/image/logo/favicon.png')}}"/>
     <link rel="canonical" href="{{route('index')}}"/>
     <meta property="og:url" content="{{route('index')}}"/>
     <meta property="og:type" content="article"/>
@@ -30,13 +30,12 @@
     <meta name="geo.region" content="VN-65"/>
     <meta content="Nation,Viet Nam,Việt Nam,VN" itemprop="articleSection" name="section"/>
     <script type="text/javascript">
-        var urlRoot = "https://esm.com.vn/";
-        var urlSite = "https://esm.com.vn/";
+        var urlRoot = "https://aivietgroup.asia/";
+        var urlSite = "https://aivietgroup.asia/";
         var lang = "vn";
         var token = "3bcb8668f7e4647de1e48c54a3295c72d1785ca28c3a4d29a6edef1520c544b838a93db3";
         var _token = "FQ3fPcnl6dKC3oQ7t7zekHLl6bolGOeWzta5oPhG";
     </script>
-
 
     <link rel="stylesheet"
           href="https://fonts.googleapis.com/css2?family=Exo+2&family=Kanit&family=Lato:wght@700&display=swap"/>
@@ -62,7 +61,6 @@
 @yield('content')
 
 @include('elements.footer')
-
 
 <script type="text/javascript" src="{{asset('assets/js/jquery/jquery-3.3.1.min.js')}}"></script>
 <script type="text/javascript" src="{{asset('assets/js/site/jquery-migrate.min.js')}}"></script>

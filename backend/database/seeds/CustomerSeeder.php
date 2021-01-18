@@ -12,76 +12,11 @@ class CustomerSeeder extends Seeder
     public function run()
     {
         DB::table('customers')->insert([
-//            [
-//                'customer_name' => 'mescedes',
-//                'image' => 'thumbs/image/logo/khachhang/435x300-0-kh_mercedes.png',
-//                'link' => '',
-//            ],
-//            [
-//                'customer_name' => 'vingroup',
-//                'image' => 'thumbs/image/logo/khachhang/435x300-0-kh_vingroup.png',
-//                'link' => '',
-//            ],
-//            [
-//                'customer_name' => 'vcci',
-//                'image' => 'thumbs/image/logo/khachhang/435x300-0-kh_vcci.png',
-//                'link' => '',
-//            ],
-//            [
-//                'customer_name' => 'parisbaguett',
-//                'image' => 'thumbs/image/logo/khachhang/435x300-0-kh_parisbaguett.png',
-//                'link' => '',
-//            ],
-//            [
-//                'customer_name' => 'otokechicken',
-//                'image' => 'thumbs/image/logo/khachhang/435x300-0-kh_otokechicken.png',
-//                'link' => '',
-//            ],
-//            [
-//                'customer_name' => 'laotru',
-//                'image' => 'thumbs/image/logo/khachhang/435x300-0-kh_laotru.png',
-//                'link' => '',
-//            ],
-//            [
-//                'customer_name' => 'htv',
-//                'image' => 'thumbs/image/logo/khachhang/435x300-0-kh_htv.png',
-//                'link' => '',
-//            ],
-//            [
-//                'customer_name' => 'coccoc',
-//                'image' => 'thumbs/image/logo/khachhang/435x300-0-kh_coccoc.png',
-//                'link' => '',
-//            ],
             [
                 'customer_name' => 'hoasen',
                 'image' => 'thumbs/image/logo/khachhang/435x300-0-kh_hoasen.png',
                 'link' => '',
             ],
-//            [
-//                'customer_name' => 'innisfree',
-//                'image' => 'thumbs/image/logo/khachhang/435x300-0-kh_innisfree.png',
-//                'link' => '',
-//            ],
-//            [
-//                'customer_name' => 'madrid',
-//                'image' => 'thumbs/image/logo/khachhang/435x300-0-kh_madrid.png',
-//                'link' => '',
-//            ],
-//            [
-//                'customer_name' => 'iqdental',
-//                'image' => 'thumbs/image/logo/khachhang/435x300-0-kh_iqdental.png',
-//                'link' => '',
-//            ],
-//            [
-//                'customer_name' => 'daichi',
-//                'image' => 'thumbs/image/logo/khachhang/435x300-0-kh_daichi.png',
-//                'link' => '',
-//            ],
-//            [
-//                'customer_name' => 'datxanh',
-//                'image' => 'thumbs/image/logo/khachhang/435x300-0-kh_datxanh.png',
-//                'link' => '',
-//            ],
             [
                 'customer_name' => 'novaland',
                 'image' => 'thumbs/image/logo/khachhang/435x300-0-kh_novaland.png',
@@ -105,26 +40,6 @@ class CustomerSeeder extends Seeder
             [
                 'customer_name' => 'honda',
                 'image' => 'thumbs/image/logo/khachhang/435x300-0-kh_honda.png',
-                'link' => '',
-            ],
-//            [
-//                'customer_name' => 'hyundai',
-//                'image' => 'thumbs/image/logo/khachhang/435x300-0-kh_hyundai.png',
-//                'link' => '',
-//            ],
-            [
-                'customer_name' => 'chamichi',
-                'image' => 'thumbs/image/logo/khachhang/435x300-0-kh_chamichi.png',
-                'link' => '',
-            ],
-            [
-                'customer_name' => 'charmy',
-                'image' => 'thumbs/image/logo/khachhang/435x300-0-kh_charmy-beauty-spa.jpg',
-                'link' => '',
-            ],
-            [
-                'customer_name' => 'cheeselab',
-                'image' => 'thumbs/image/logo/khachhang/435x300-0-kh_cheese-lab.png',
                 'link' => '',
             ],
             [
@@ -178,11 +93,6 @@ class CustomerSeeder extends Seeder
                 'link' => '',
             ],
             [
-                'customer_name' => 'latra',
-                'image' => 'thumbs/image/logo/khachhang/435x300-0-kh_latra.png',
-                'link' => '',
-            ],
-            [
                 'customer_name' => 'millennials',
                 'image' => 'thumbs/image/logo/khachhang/435x300-0-kh_millennials.jpg',
                 'link' => '',
@@ -226,12 +136,7 @@ class CustomerSeeder extends Seeder
                 'customer_name' => 'vysa',
                 'image' => 'thumbs/image/logo/khachhang/435x300-0-kh_vysa.png',
                 'link' => '',
-            ],
-            [
-                'customer_name' => 'zen',
-                'image' => 'thumbs/image/logo/khachhang/435x300-0-kh_zen-restaurant.jpg',
-                'link' => '',
-            ],
+            ]
         ]);
     }
 }

@@ -1944,7 +1944,7 @@ textarea.form-message {
 }
 
 .contact-map {
-    width: 65%;
+    width: 60%;
 }
 
 .contact-map iframe {
@@ -2347,7 +2347,7 @@ article .container {
 }
 
 .icon-our-partner img {
-    width: 100%;
+    /*width: 100%;*/
     border-radius: 10%;
 }
 

@@ -177,12 +177,14 @@
                                 <i class="fas fa-map-marker-alt"></i>
                                 <p class="mb-0"> Address </p>
                                 <p class="text mt-0">253 Điện Biên Phủ, Phường 7, Quận 3, TPHCM</p>
+                                <p class="text mt-0">05 Ngô Thị Thu Minh, Phường 2, Quận Tân Bình, TPHCM</p>
                             </div>
                             <!-- info -->
                             <div class="info">
                                 <i class="fas fa-phone"></i>
                                 <p class="mb-0"> Phone </p>
                                 <a href="tel:0978.106.982">(+84) 935 193 931</a>
+                                <a href="tel:0978.106.982">(+84) 973 362 514</a>
                             </div>
                         </div>
                     </div>
